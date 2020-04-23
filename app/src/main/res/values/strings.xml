@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Modified App</string>
+    <string name="login">Login</string>
+    <string name="new_account">Create a new account?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="register">Register</string>
+    <string name="now_login">Now login</string>
+    <string name="email_id">Email ID</string>
+    <string name="welcome">Welcome to SQLite Database</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="select_birth_date">Select birth date</string>
+</resources>
